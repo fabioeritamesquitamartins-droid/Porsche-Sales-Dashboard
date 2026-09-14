@@ -41,16 +41,4 @@ Todos reativos. Recalculam KPIs e gráficos instantaneamente.
 
 HTML5 • CSS3 • Vanilla JS • Chart.js • JSON embutido • 100% client-side • Sem build
 
-### Como publicar
 
-1. Suba o `index.html` para o repositório
-2. Settings > Pages > Deploy from a branch > main / root > Save
-3. Acesse: `https://seu-usuario.github.io/Porsche-Sales-Dashboard/`
-
-### Base de dados
-
-`base_Porsche_Sanitizada.xlsx` — 100 registros, 12 colunas sanitizadas.
-
-> “In the beginning I looked around and could not find quite the car I dreamed of. So I decided to build it myself.” — Ferry Porsche
-
-**PORSCHE — Painel de Vendas | Brasil — Edição Preta**
